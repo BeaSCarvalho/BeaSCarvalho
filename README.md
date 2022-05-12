@@ -39,7 +39,6 @@
 </p>
 
 ##
-<h3>Estatísticas</h3>
 <p display="inline-block">
 <a href="https://github.com/BeaSCarvalho">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BeaSCarvalho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
