@@ -7,7 +7,7 @@
 
 <div>
   
-<img align="right" alt="Gif gato vendo a cidade" width="300px" src="https://data.whicdn.com/images/295582008/original.gif" />    
+<img align="right" alt="Gif gato vendo a cidade" width="300" src="https://data.whicdn.com/images/295582008/original.gif" />    
  
 <p align="left">:heavy_check_mark: Tenho 26 anos</p>
 <p align="left">:heavy_check_mark: Moro em São Paulo/SP </p>
