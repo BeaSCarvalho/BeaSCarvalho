@@ -9,10 +9,10 @@
   
 <img align="right" alt="Gif gato vendo a cidade" width="300" src="https://data.whicdn.com/images/295582008/original.gif" />    
  
+<p align="left">:heavy_check_mark: Desenvolvedora Web Front-End Jr.  
 <p align="left">:heavy_check_mark: Tenho 26 anos</p>
 <p align="left">:heavy_check_mark: Moro em São Paulo/SP </p>
-<p align="left">:heavy_check_mark: Estudante de desenvolvimento Front-End na 
-  <a href="https://github.com/Laboratoria">Laboratória</a>
+
 </p> 
 <p align="left">:heavy_check_mark: Apaixonada por programação, Arte, Arquitetura e Gatos</p>
 
